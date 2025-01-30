@@ -2,7 +2,7 @@ from llama_cpp import Llama
 from huggingface_hub import login
 
 # Log in with your Hugging Face token
-login("specify your huggingface token here")
+login("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")
 
 from datasets import load_dataset
 
