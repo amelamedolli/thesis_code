@@ -44,7 +44,7 @@ def process_json(file_path):
 process_json("/home/mtpgai23/benchmarks/short_benchmark_humaneval.json")
 
 # Log in to Hugging Face Hub
-login("specify your huggingface token here")
+login("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")
 
 # Load the updated dataset
 dataset = load_dataset(
